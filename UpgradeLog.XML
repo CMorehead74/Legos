@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Project">
+</Property><Property Name="Solution File" Value="C:\Users\Morehead\Documents\FullSail\2012-010-OGL\Project\Project.sln">
+</Property><Property Name="Date" Value="Sunday, October 28, 2012">
+</Property><Property Name="Time" Value="17:15:12 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Project" Source="Project.vcproj" Description="Converting project file 'C:\Users\Morehead\Documents\FullSail\2012-010-OGL\Project\Project.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Project" Source="Project.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Project" Source="Project.vcproj" Description="Done converting to new project file 'C:\Users\Morehead\Documents\FullSail\2012-010-OGL\Project\Project.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Project" Source="Project.vcproj" Description="Converted">
+</Event></UpgradeLog>
