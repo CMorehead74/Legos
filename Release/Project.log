@@ -1,0 +1,13 @@
+﻿Build started 2/5/2020 2:05:23 PM.
+     1>Project "C:\Users\cmorehead\Documents\Corey_Personal_Documents\LEGO\OpenGL_Legos\OpenGL_Legos\Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GLMain.cpp GLView.cpp
+         GLMain.cpp
+     1>c:\users\cmorehead\documents\corey_personal_documents\lego\opengl_legos\opengl_legos\GLView.h(35): fatal error C1083: Cannot open include file: 'gltools.h': No such file or directory
+         GLView.cpp
+     1>c:\users\cmorehead\documents\corey_personal_documents\lego\opengl_legos\opengl_legos\GLView.h(35): fatal error C1083: Cannot open include file: 'gltools.h': No such file or directory
+     1>Done Building Project "C:\Users\cmorehead\Documents\Corey_Personal_Documents\LEGO\OpenGL_Legos\OpenGL_Legos\Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36
