@@ -1,0 +1,15 @@
+//Vertex Program
+//floor.vp
+#version 130
+
+in vec4 vVertexPos;
+in vec2 vTextureCoordAttribute;
+
+out vec2 vTexCoordVary;
+uniform mat4 mMVP;
+
+void main (void)
+{
+	vTexCoordVary = vTextureCoordAttribute;
+	gl_Position = mMVP * vVertexPos;
+}
