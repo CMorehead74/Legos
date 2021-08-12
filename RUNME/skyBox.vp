@@ -1,0 +1,11 @@
+#version 130
+
+in vec4 vVertex;
+out vec3 vTexVary;
+uniform mat4 MVP;
+
+void main (void)
+{
+	vTexVary = normalize(vVertex.xyz);
+	gl_Position = MVP * vVertex;
+}
